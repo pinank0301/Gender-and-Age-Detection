@@ -1,4 +1,4 @@
-# Gender-and-Age-Detection   <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Gender-and-Age-Detection">
+# Gender-and-Age-Detection 
 
 
 <h2>Objective :</h2>
@@ -52,9 +52,3 @@
 <ul>
   <li>Press <b>Ctrl + C</b> to stop the program execution.</li>
 </ul>
-
-# Working:
-[![Watch the video](https://img.youtube.com/vi/ReeccRD21EU/0.jpg)](https://youtu.be/ReeccRD21EU)
-
-
-              
